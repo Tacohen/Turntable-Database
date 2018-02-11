@@ -57,3 +57,16 @@ typings/
 # dotenv environment variables file
 .env
 
+
+# compiled output
+/dist
+/dist-server
+/tmp
+/out-tsc
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDE
+.editorconfig
